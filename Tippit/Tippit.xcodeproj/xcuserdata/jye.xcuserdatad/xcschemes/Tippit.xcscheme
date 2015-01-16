@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A5CAE7F1A6754B100AC922A"
+               BlueprintIdentifier = "1A5CAEDF1A679EB300AC922A"
                BuildableName = "Tippit.app"
                BlueprintName = "Tippit"
                ReferencedContainer = "container:Tippit.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A5CAE981A6754B100AC922A"
+               BlueprintIdentifier = "1A5CAEF41A679EB300AC922A"
                BuildableName = "TippitTests.xctest"
                BlueprintName = "TippitTests"
                ReferencedContainer = "container:Tippit.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A5CAE981A6754B100AC922A"
+               BlueprintIdentifier = "1A5CAEF41A679EB300AC922A"
                BuildableName = "TippitTests.xctest"
                BlueprintName = "TippitTests"
                ReferencedContainer = "container:Tippit.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A5CAE7F1A6754B100AC922A"
+            BlueprintIdentifier = "1A5CAEDF1A679EB300AC922A"
             BuildableName = "Tippit.app"
             BlueprintName = "Tippit"
             ReferencedContainer = "container:Tippit.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A5CAE7F1A6754B100AC922A"
+            BlueprintIdentifier = "1A5CAEDF1A679EB300AC922A"
             BuildableName = "Tippit.app"
             BlueprintName = "Tippit"
             ReferencedContainer = "container:Tippit.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A5CAE7F1A6754B100AC922A"
+            BlueprintIdentifier = "1A5CAEDF1A679EB300AC922A"
             BuildableName = "Tippit.app"
             BlueprintName = "Tippit"
             ReferencedContainer = "container:Tippit.xcodeproj">
