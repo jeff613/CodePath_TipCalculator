@@ -164,10 +164,11 @@
 				TargetAttributes = {
 					1A5CAEDF1A679EB300AC922A = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = S86E23WQV5;
+						DevelopmentTeam = SG5T85EJC7;
 					};
 					1A5CAEF41A679EB300AC922A = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = SG5T85EJC7;
 						TestTargetID = 1A5CAEDF1A679EB300AC922A;
 					};
 				};
@@ -416,6 +417,7 @@
 				1A5CAF011A679EB300AC922A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A5CAF021A679EB300AC922A /* Build configuration list for PBXNativeTarget "TippitTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +426,7 @@
 				1A5CAF041A679EB300AC922A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

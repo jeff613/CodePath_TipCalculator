@@ -56,6 +56,21 @@ class ViewController: UIViewController {
     override func viewDidDisappear(animated: Bool) {
         super.viewDidDisappear(animated)
         println("view did disappear")
+        
+        var a = 10
+        let closure = { (t1: Int) -> Int in
+            t1 + 2
+        }
+        
+        func returnPrintWithValue(value: Int, inputFunc: (Int) -> ()) -> () -> (){
+            return { inputFunc(value) }
+        }
+        
+        let print4 = returnPrintWithValue(4) { println($0) }
+        print4()
+        
+        a = 20
+        println(closure(10))
     }
 
     override func didReceiveMemoryWarning() {
@@ -72,8 +87,7 @@ class ViewController: UIViewController {
         calculate()
     }
     
-    func calculate()
-    {
+    func calculate() {
         var tipPercent = tipPercentages[TipControl.selectedSegmentIndex]
         
         var billAmount = (BillAmountField.text as NSString).doubleValue
